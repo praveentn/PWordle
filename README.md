@@ -20,7 +20,7 @@ Wordle of dynamic length in Python
 
 #### Example of a single 5 letter game:
 
-<img width="379" alt="Screen Shot 2022-02-12 at 7 16 47 PM" src="https://raw.githubusercontent.com/praveentn/PWordle/main/img1.png">
+<img width="600" alt="" src="https://raw.githubusercontent.com/praveentn/PWordle/main/img1.png">
 
-<img width="785" alt="Screen Shot 2022-02-12 at 7 17 16 PM" src="https://raw.githubusercontent.com/praveentn/PWordle/main/img2.png">
+<img width="600" alt="" src="https://raw.githubusercontent.com/praveentn/PWordle/main/img2.png">
 
