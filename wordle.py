@@ -16,7 +16,7 @@ def pick_random_word():
     while true_word == None or '-' in true_word:
         true_word = r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun,verb,adjective", minDictionaryCount = 3, minLength=minlen, maxLength=minlen).upper()
     else:
-        print(f'Word is: {true_word}')
+        # print(f'Word is: {true_word}')
         return true_word
 
 #Ask User Input
